@@ -10,7 +10,7 @@ function App() {
  <>
     <Router>
       <Routes>
-        <Route exact path="/project5" element={<Random/>}/>
+        <Route exact path="/" element={<Random/>}/>
       </Routes>
 
     </Router>
